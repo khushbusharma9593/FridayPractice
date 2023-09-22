@@ -4,6 +4,7 @@ public class FridayClass
     {
 
         System.out.println("My name is Khushbu");
+        System.out.println("I live in Ahmedabad");
 
     }
 }
